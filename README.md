@@ -22,7 +22,7 @@
 yay -S hyprvault
 ```
 
-### From Source (pip)
+### From Source
 
 ```bash
 git clone https://github.com/Tunahanyrd/hyprvault.git
