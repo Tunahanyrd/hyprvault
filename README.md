@@ -27,7 +27,7 @@ yay -S hyprvault
 Requires Python 3.11+ and [uv](https://github.com/astral-sh/uv):
 
 ```bash
-git clone https://github.com/yourusername/hyprvault.git
+git clone https://github.com/Tunahanyrd/hyprvault.git
 cd hyprvault
 uv pip install -e .
 ```

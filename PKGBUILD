@@ -1,10 +1,10 @@
-# Maintainer: Tunahan <your-email@example.com>
+# Maintainer: Tunahan <tunahanyrd@gmail.com>
 pkgname=hyprvault
 pkgver=0.1.0
 pkgrel=1
 pkgdesc="Lightweight session manager for Hyprland"
 arch=('any')
-url="https://github.com/yourusername/hyprvault"
+url="https://github.com/Tunahanyrd/hyprvault"
 license=('MIT')
 depends=('python>=3.11' 'hyprland')
 makedepends=('python-build' 'python-installer' 'python-wheel')
