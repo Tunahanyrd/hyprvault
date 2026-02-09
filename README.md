@@ -30,6 +30,21 @@ cd hyprvault
 pip install .
 ```
 
+#### Shell Completions (optional)
+
+AUR package installs these automatically. For pip users:
+
+```bash
+# Fish
+cp completions/hyprvault.fish ~/.config/fish/completions/
+
+# Bash
+cp completions/hyprvault.bash ~/.local/share/bash-completion/completions/hyprvault
+
+# Zsh
+cp completions/_hyprvault ~/.local/share/zsh/site-functions/
+```
+
 ## 🚀 Usage
 
 ```bash
